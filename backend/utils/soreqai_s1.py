@@ -7,3 +7,5 @@ def slugify(name: str) -> str:
 def s1_two(): return 2
 
 def s1_three(): return 3
+
+def s1_four(): return 4
