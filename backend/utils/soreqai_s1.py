@@ -9,3 +9,5 @@ def s1_two(): return 2
 def s1_three(): return 3
 
 def s1_four(): return 4
+
+def s1_five(): return 5
