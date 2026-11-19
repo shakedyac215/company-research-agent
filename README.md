@@ -156,3 +156,5 @@ curl -X POST http://localhost:8000/research \
 ## License
 
 [Apache License 2.0](LICENSE)
+
+<!-- SoreqAI PR-flow test: README-only change -->
