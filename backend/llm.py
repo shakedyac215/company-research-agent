@@ -82,4 +82,5 @@ def create_llm(role: Role, config: LLMConfig | None = None, *, streaming: bool =
         temperature=0,
         streaming=streaming,
         api_key=openai_key,
+        max_retries=0,
     )
